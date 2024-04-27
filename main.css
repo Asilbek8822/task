@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    margin-left: 100px;
+    margin-top: -1400px;
+    justify-content: space-between;
+}
+.div13{
+    display: flex;
+    margin-left: 100px;
+    justify-content: space-between;
+}
